@@ -1,0 +1,11 @@
+{
+  "welcome" : "Uzbekistonga xush kelibsiz",
+  "flutter" : "Flutter - bu Google tomonidan yaratilgan ochiq manbali Ui dasturiy ta'minot ishlab chiqish to'plami",
+  "cat": {
+    "zero": "mushuk yo`q",
+    "one": "{} ta mushuk",
+    "two": "{} ta mushuk",
+    "many": "{} mushuk",
+    "other": "{} mushuk"
+  }
+}

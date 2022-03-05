@@ -1,0 +1,11 @@
+{
+  "welcome" : "Bienvenue en Ouzbékistan",
+  "flutter" : "Flutter est un kit de développement logiciel open-source Ui créé par Google",
+  "cat": {
+    "zero": "Il n'y a pas de chat",
+    "one": "un chat",
+    "two": "deux chats",
+    "many": "chats",
+    "other": "chats"
+  }
+}
